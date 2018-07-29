@@ -1,0 +1,43 @@
+# Site settings
+baseURL = "http://link.seispider.top/"
+languageCode = "en-us"
+title = "Link of SeisPider"
+theme = "simpledoc"
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  smartlists = true
+  extensions = ["hardLineBreak"]
+
+# Top menu
+[[menu.top]]
+    name = "Blig"
+    weight = 20
+    url = "https://blog.seispider.top"
+[[menu.top]]
+    name = "GitHub"
+    weight = 10
+    url = "http://github.com/seispider"
+[[menu.top]]
+    name = "Home"
+    weight = 30
+    url = "https://home.ustc.edu.cn/~xiaox17"
+
+# Site parameters
+[params]
+
+    # Meta
+    description = "Site for storing useful permanent links"
+    author = "Xiao Xiao"
+    keywords = "Seismology, Python, GMT, Latex"
+    
+    # Header
+    # If not set, site title and meta description will be shown.
+    # You may use markdown here
+    headerTitle = "Links"
+    headerDescription = "Collect & save useful links in daily **scientific works**"
+    
+    # Back-to-top button name
+    bttButton = ""
