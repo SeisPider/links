@@ -1,6 +1,6 @@
 ---
 title: "Seismological forward modelling codes"
-date: 2018-07-28T00:57:40+03:00
+date: 2018-08-02T00:57:40+03:00
 anchor: "SeisPider"
 weight: 20
 ---
