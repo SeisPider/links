@@ -1,11 +1,9 @@
 ---
-title: "Scientific Code"
+title: "Seismological data processing codes"
 date: 2018-07-28T00:57:40+03:00
-anchor: "scientific-code"
+anchor: "SeisPider"
 weight: 20
 ---
-
-# Seismological code 
 
 ## Retrieve seismology waveforms
 
