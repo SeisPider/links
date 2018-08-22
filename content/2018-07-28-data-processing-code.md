@@ -33,6 +33,8 @@ weight: 20
 
 - [JPlotResp Installation](http://love.isti.com/JPlotResp/)
 
+- [SplitLab](http://splitting.gm.univ-montp2.fr/) Matlab tool for SKS spliting analysis
+
 ### General
 
 - [ObsPy Library Reference — ObsPy Documentation (1.0.2)](https://docs.obspy.org/packages/index.html)
