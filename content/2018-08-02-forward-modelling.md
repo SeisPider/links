@@ -13,3 +13,8 @@ weight: 20
 ## Reflectivity method
 
 - [fk](http://www.eas.slu.edu/People/LZhu/home.html): Frequency-Wavenumber (FK) synthetic seismogram package
+
+
+## Compound method
+
+- [Multitel3](https://academic.oup.com/gji/article/211/2/936/4064367): Combination of classical ray theory and haskell propagation metrix method
