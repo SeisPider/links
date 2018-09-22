@@ -11,6 +11,8 @@ weight: 20
 
 - [SOD - Demo](http://www.seis.sc.edu/sod/documentation/demo.html)
 
+- [IRIS-WS](http://ds.iris.edu/ds/nodes/dmc/software/downloads/IRIS-WS/):A Java API that allows direct access to data and information at the DMC from within your programs.
+
 ## Data processing
 
 ### Ambient noise
