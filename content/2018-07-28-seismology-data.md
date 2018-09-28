@@ -21,8 +21,16 @@ weight: 20
 
 - [EarthScope USArray Data Management Short Course](http://www.iris.edu/hq/es_course/content/2009.html)
 
+- [MUSTANG](http://ds.iris.edu/mustang/databrowser/): Browser station info.
+(PDF, continuity and so on) which can be obtained from IRIS
+
 # Earth reference model
+
+## Seismological model
 
 - [Crustal Model CRUST1 page](http://igppweb.ucsd.edu/~gabi/crust1.html)
 
+## Geodesy model
 - [Earth Gravitational Model 2008 (EGM2008)](http://earth-info.nga.mil/GandG/wgs84/gravitymod/egm2008/)
+
+- [Bedmap2](https://www.bas.ac.uk/project/bedmap-2/):new suite of gridded products describing surface elevation, ice-thickness and the sea ﬂoor and subglacial bed elevation of the Antarctic south of 60◦ S. 
