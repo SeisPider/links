@@ -21,8 +21,7 @@ weight: 20
 
 - [EarthScope USArray Data Management Short Course](http://www.iris.edu/hq/es_course/content/2009.html)
 
-- [MUSTANG](http://ds.iris.edu/mustang/databrowser/): Browser station info.
-(PDF, continuity and so on) which can be obtained from IRIS
+- [MUSTANG](http://ds.iris.edu/mustang/databrowser/): Browser station info. (PDF, continuity and so on) which can be obtained from IRIS
 
 # Earth reference model
 

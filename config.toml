@@ -24,6 +24,10 @@ theme = "simpledoc"
     name = "Home"
     weight = 30
     url = "https://home.ustc.edu.cn/~xiaox17"
+[[menu.top]]
+    name = "GroupMeeting"
+    weight = 40
+    url = "http://222.195.83.195/wen/"
 
 # Site parameters
 [params]
