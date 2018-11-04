@@ -14,6 +14,9 @@ weight: 20
 
 - [fk](http://www.eas.slu.edu/People/LZhu/home.html): Frequency-Wavenumber (FK) synthetic seismogram package
 
+## Modal summation
+
+- [CPS330](http://www.eas.slu.edu/eqc/eqc_cps/TUTORIAL/SLAT2D/index.html): General computer program in seismology
 
 ## Compound method
 
