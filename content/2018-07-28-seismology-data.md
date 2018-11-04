@@ -41,4 +41,12 @@ weight: 20
 ## Geodesy model
 - [Earth Gravitational Model 2008 (EGM2008)](http://earth-info.nga.mil/GandG/wgs84/gravitymod/egm2008/)
 
-- [Bedmap2](https://www.bas.ac.uk/project/bedmap-2/):new suite of gridded products describing surface elevation, ice-thickness and the sea ﬂoor and subglacial bed elevation of the Antarctic south of 60◦ S. 
+- [Bedmap2](https://www.bas.ac.uk/project/bedmap-2/):new suite of gridded products describing surface elevation, ice-thickness and the sea ﬂoor and subglacial bed elevation of the Antarctic south of 60◦ S.
+
+## Topography model && photos
+
+- [Topography && Bathymetry](https://gmt-china.org/datas/)
+
+- [Topo. photos](https://earthobservatory.nasa.gov/)
+
+- [Google Earth](https://earth.google.com/web/)
