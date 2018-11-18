@@ -41,6 +41,8 @@ weight: 20
 
 - [ObsPy Library Reference — ObsPy Documentation (1.0.2)](https://docs.obspy.org/packages/index.html)
 
+- [Geopsy team](http://www.geopsy.org/index.html): Geopsy team is developing, distributing and maintaining open source software for geophysical research and applications
+
 ## Optimization method
 
 - [partical swarm optimization](http://clerc.maurice.free.fr/pso/)
