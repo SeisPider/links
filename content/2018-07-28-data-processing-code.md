@@ -53,3 +53,7 @@ weight: 20
 ## Utilization
 
 - [Computer Programs in Seismology Tutorials](http://www.eas.slu.edu/eqc/eqc_cps/TUTORIAL/)
+
+- [EQcorrscan](https://github.com/eqcorrscan/EQcorrscan): Earthquake detection and analysis in Python.
+
+- [fast_matched_filter](https://github.com/beridel/fast_matched_filter): An efficient seismic matched-filter search for both CPU and GPU architectures.
