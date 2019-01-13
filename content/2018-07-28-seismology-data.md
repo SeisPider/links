@@ -36,6 +36,9 @@ weight: 20
 
 - [Crustal Model CRUST1 page](http://igppweb.ucsd.edu/~gabi/crust1.html)
 
+## Seismological observation
+
+- [Global shear wave spliting data](http://splitting.gm.univ-montp2.fr/DB/public/searchdatabase.html)
 
 
 ## Geodesy model
