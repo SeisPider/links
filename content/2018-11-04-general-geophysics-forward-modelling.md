@@ -19,3 +19,5 @@ weight: 20
 
 - [citcoms](https://github.com/geodynamics/citcoms): a finite element code designed to solve compressible thermochemical convection problems relevant to Earth s mantle.
 
+## Tide
+- [T_Tide](https://www.eoas.ubc.ca/~rich/): classical harmonic analysis with error estimates

@@ -36,15 +36,19 @@ weight: 20
 
 - [Crustal Model CRUST1 page](http://igppweb.ucsd.edu/~gabi/crust1.html)
 
+
 ## Seismological observation
 
 - [Global shear wave spliting data](http://splitting.gm.univ-montp2.fr/DB/public/searchdatabase.html)
 
 
 ## Geodesy model
+
 - [Earth Gravitational Model 2008 (EGM2008)](http://earth-info.nga.mil/GandG/wgs84/gravitymod/egm2008/)
 
 - [Bedmap2](https://www.bas.ac.uk/project/bedmap-2/):new suite of gridded products describing surface elevation, ice-thickness and the sea ﬂoor and subglacial bed elevation of the Antarctic south of 60◦ S.
+
+- [HS3-NUVEL1A](tectonics.rice.edu/calculators/hs3.html): Young tracks of hotspots and current plate velocities.
 
 ## Topography model && photos
 
