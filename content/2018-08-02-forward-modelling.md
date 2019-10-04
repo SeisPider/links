@@ -14,6 +14,8 @@ weight: 20
 
 - [fk](http://www.eas.slu.edu/People/LZhu/home.html): Frequency-Wavenumber (FK) synthetic seismogram package
 
+- [telewavesim](https://github.com/paudetseis/Telewavesim): Teleseismic body wave simulation with propagation matrix method
+
 ## Modal summation
 
 - [CPS330](http://www.eas.slu.edu/eqc/eqc_cps/TUTORIAL/SLAT2D/index.html): General computer program in seismology
