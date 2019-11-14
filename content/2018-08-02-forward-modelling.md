@@ -24,6 +24,9 @@ weight: 20
 
 - [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software/): Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
 
+- [aser1.0](http://www.eas.slu.edu/People/LZhu/home.html): Generalized Ray Theory (GRT) synthetic seismogram package
+
+
 ## Compound method
 
 - [Multitel3](https://academic.oup.com/gji/article/211/2/936/4064367): Combination of classical ray theory and haskell propagation metrix method
