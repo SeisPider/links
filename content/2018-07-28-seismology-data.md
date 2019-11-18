@@ -23,6 +23,18 @@ weight: 20
 
 - [MUSTANG](http://ds.iris.edu/mustang/databrowser/): Browser station info. (PDF, continuity and so on) which can be obtained from IRIS
 
+## seismic phase peaking tools
+
+- [PhaseLink](https://github.com/interseismic/PhaseLink): A deep learning approach to seismic phase association
+
+- [PSPicker](https://github.com/ChrisBail/PSPicker): a matlab tool for automatic phase picking and event location
+
+- [PhasePApy](https://github.com/austinholland/PhasePApy): Python Seismic Phase Picker and Associator
+
+- [aimbat](https://github.com/pysmo/aimbat): Automated and Interactive Measurement of Body wave Arrival Times
+
+
+
 ##  Vocano related data
 
 - [Global Volcanism Program](https://volcano.si.edu/):he Volcanoes of the World database provides a catalog of Holocene and Pleistocene volcanoes, and eruptions from the past 10,000 years.
