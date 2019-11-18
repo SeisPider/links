@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Link of SeisPider</title>
+    <link>http://link.seispider.top/</link>
+    <description>Recent content on Link of SeisPider</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Nov 2018 00:57:40 +0300</lastBuildDate>
+    
+	<atom:link href="http://link.seispider.top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Environmental software construction</title>
+      <link>http://link.seispider.top/2018-11-17-work-environment/</link>
+      <pubDate>Sat, 17 Nov 2018 00:57:40 +0300</pubDate>
+      
+      <guid>http://link.seispider.top/2018-11-17-work-environment/</guid>
+      <description> Compiler  gfortran for mac
+  </description>
+    </item>
+    
+    <item>
+      <title>General geophysics forward modelling codes</title>
+      <link>http://link.seispider.top/2018-11-04-general-geophysics-forward-modelling/</link>
+      <pubDate>Sun, 04 Nov 2018 00:57:40 +0300</pubDate>
+      
+      <guid>http://link.seispider.top/2018-11-04-general-geophysics-forward-modelling/</guid>
+      <description>Volcano  PF3D: PF3D is a Python module that facilitates volcanic ash dispersal modelling using the FALL3D package
+  Geodynamic  ASPECT: A parallel, extensible finite element code to simulate convection in both 2D and 3D models.
+ PyLith: an open-source finite-element code for dynamic and quasistatic simulations of crustal deformation, primarily earthquakes and volcanoes.
+ Rayleigh: a 3-D convection code designed for the study of dynamo behavior in spherical geometry.</description>
+    </item>
+    
+    <item>
+      <title>Seismological forward modelling codes</title>
+      <link>http://link.seispider.top/2018-08-02-forward-modelling/</link>
+      <pubDate>Thu, 02 Aug 2018 00:57:40 +0300</pubDate>
+      
+      <guid>http://link.seispider.top/2018-08-02-forward-modelling/</guid>
+      <description>Spectrum element method  SES3D: SES3D is a program package for the simulation of elastic wave propagation and waveform inversion in a spherical section. The package is based on a spectral-element discretisation of the seismic wave equation combined with adjoint techniques.
+  Reflectivity method  fk: Frequency-Wavenumber (FK) synthetic seismogram package
+ telewavesim: Teleseismic body wave simulation with propagation matrix method
+  Modal summation  CPS330: General computer program in seismology</description>
+    </item>
+    
+    <item>
+      <title>Seismological inversion codes</title>
+      <link>http://link.seispider.top/2018-08-02-inversion/</link>
+      <pubDate>Thu, 02 Aug 2018 00:57:40 +0300</pubDate>
+      
+      <guid>http://link.seispider.top/2018-08-02-inversion/</guid>
+      <description>Structure Full Waveform  lasif: a data-driven end-to-end workflow tool to perform adjoint full seismic waveform inversions.
+ SeisFlow: differs from previous open-source software in emphasizing both flexibility and HPC portability.
+ DSM kernel: calculate 3D finite frequency Fréchet sensitivity kernels (or 3D waveform partial derivatives) for 1D reference Earth models using Direct Solution Method.
+  Surface wave  topo_sp_cu: ray theoretic surface wave tomography code.
+ FMTOMO: The forward problem of traveltime prediction is solved using a multi-stage fast marching method (FMM), which is a sophisticated grid-based eikonal solver.</description>
+    </item>
+    
+    <item>
+      <title>Seismological data processing codes</title>
+      <link>http://link.seispider.top/2018-07-28-data-processing-code/</link>
+      <pubDate>Sat, 28 Jul 2018 00:57:40 +0300</pubDate>
+      
+      <guid>http://link.seispider.top/2018-07-28-data-processing-code/</guid>
+      <description>Retrieve seismology waveforms  Running the scripts and examples - Web Service Fetch scripts - IRIS SeisCode
+ SOD - Demo
+ IRIS-WS:A Java API that allows direct access to data and information at the DMC from within your programs.
+  Data processing Ambient noise  New Codes for Ambient Seismic Noise Analysis
+ seissuite 0.1.3 : Python Package Index
+ MSNoise | A Python Package for Monitoring Seismic Velocity Changes using Ambient Seismic Noise</description>
+    </item>
+    
+    <item>
+      <title>Seismology Data</title>
+      <link>http://link.seispider.top/2018-07-28-seismology-data/</link>
+      <pubDate>Sat, 28 Jul 2018 00:57:40 +0300</pubDate>
+      
+      <guid>http://link.seispider.top/2018-07-28-seismology-data/</guid>
+      <description>Seismic waveforms  FDSN
+ Earthquake Center
+ 国家测震台网地震波形数据管理与共享平台
+ IRIS DMC Google Map Service Usage
+ International Seismological Centre
+ WebDC3 at eida.gfz-potsdam.de
+ EarthScope USArray Data Management Short Course
+ MUSTANG: Browser station info. (PDF, continuity and so on) which can be obtained from IRIS
+  seismic phase peaking tools  PhaseLink: A deep learning approach to seismic phase association
+ PSPicker: a matlab tool for automatic phase picking and event location</description>
+    </item>
+    
+  </channel>
+</rss>
